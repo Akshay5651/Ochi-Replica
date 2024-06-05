@@ -1,6 +1,8 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+##Screenshots
+![Ochi](https://github.com/Akshay5651/Ochi-Replica/assets/39129814/4f9ade62-a83b-4093-84f9-f7d51681e318)
+
 
 Currently, two official plugins are available:
 
