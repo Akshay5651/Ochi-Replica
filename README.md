@@ -1,6 +1,6 @@
 # React + Vite
 
-## Replica Link:
+## Reference Link:
 https://ochi.design/
 
 ##Screenshots
