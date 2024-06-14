@@ -1,5 +1,8 @@
 # React + Vite
 
+## Replica Link:
+https://ochi.design/
+
 ##Screenshots
 ![Ochi](https://github.com/Akshay5651/Ochi-Replica/assets/39129814/4f9ade62-a83b-4093-84f9-f7d51681e318)
 
